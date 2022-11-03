@@ -1,12 +1,12 @@
 // Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
-const generateHTML = require('./Develop/util/generateHtml');
+const generateHTML = require('./util/generateHtml');
 
 // Import the classes
-const Engineer = require('./Develop/lib/Engineer');
-const Intern = require('./Develop/lib/Intern');
-const Manager = require('./Develop/lib/Manager');
+const Engineer = require('./lib/Engineer');
+const Intern = require('./lib/Intern');
+const Manager = require('./lib/Manager');
 
 // Create an empty team member array to fill as members are added.
 const teamMembersArray = [];
