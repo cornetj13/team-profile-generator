@@ -28,15 +28,15 @@ THEN I exit the application, and the HTML is generated
 
 The application prompt looks as follows:
 
-![application-prompt](./Develop/assets/images/prompt.png)
+![application-prompt](./assets/images/prompt.png)
 
 The generated webpage looks as follows:
 
-![application-webpage](./Develop/assets/images/webpage.png)
+![application-webpage](./assets/images/webpage.png)
 
 The testing looks as follows:
 
-![application-testing](./Develop/assets/images/testing.png)
+![application-testing](./assets/images/testing.png)
 
 The following link leads to a demonstration of the application being used:
 
